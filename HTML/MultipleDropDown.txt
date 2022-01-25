@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>
+My Dropdown
+</title>
+</head>
+<body>
+<select id ='Kritunga' multiple>
+<option value='a'>Idli</option>
+<option value='b'>Dosa</option>
+<option value='c'>Poori</option>
+<option value='d'>Chapathi</option>
+<option value='e'>Vada</option>
+<option value='f'>Upma</option>
+<option value='g'>Pulihora</option>
+<option value='h'>Pulihora</option
+<option value='i'>Tanduri Chai</option>
+</select>
+
+</body>
+</html>
